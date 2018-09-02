@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Route } from 'react-router-dom';
 
-import Home from './app/home/Home';
+import Home from './modules/home/Home';
 
 class Routes extends Component {
 	render() {
