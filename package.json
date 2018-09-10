@@ -1,7 +1,8 @@
 {
-	"name": "create-react-router-redux-app",
+	"name": "create-react-app-complete",
 	"version": "0.1.0",
 	"private": true,
+	"homepage": "https://joaovertelo.github.io/create-react-app-complete",
 	"dependencies": {
 		"prop-types": "^15.6.2",
 		"react": "^16.4.2",
@@ -21,12 +22,15 @@
 		"babel-plugin-transform-object-rest-spread": "^6.26.0",
 		"babel-preset-es2015": "^6.24.1",
 		"babel-preset-react": "^6.24.1",
+		"gh-pages": "^1.2.0",
 		"redux-devtools": "^3.4.1"
 	},
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test --env=jsdom",
-		"eject": "react-scripts eject"
+		"eject": "react-scripts eject",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
 	}
 }
