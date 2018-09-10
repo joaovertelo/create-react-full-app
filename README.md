@@ -46,6 +46,7 @@ $ `yarn start` (ou `npm start`)
 |-------------------|-----------|
 |`start`            |Executa o projeto em `localhost:3000`|
 |`build`            |Faz o Build da aplicação na pasta ./dist|
+|`test`             |Executa os testes|
 |`deploy`           |Executa a build e realiza o deploy para o `github-pages`|
 
 ## Licensa
