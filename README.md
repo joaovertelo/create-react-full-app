@@ -3,8 +3,8 @@ Create React App já configurado com as principais bibliotecas e ferramentas par
 Basta clonar o projeto para seu repositório e começar a desenvolver.
 
 # Bibliotecas
-- [React] (https://github.com/facebook/react)
-- [React Router] (https://github.com/ReactTraining/react-router)
+- [React](https://github.com/facebook/react)
+- [React Router](https://github.com/ReactTraining/react-router)
 - [Redux]
 - [Redux-Thunk]
 - [Redux-Promise]
