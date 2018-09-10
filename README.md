@@ -12,6 +12,7 @@ Basta clonar o projeto para seu repositório e começar a desenvolver.
 - [Prop-Types](https://github.com/facebook/prop-types)
 - [Babel](https://github.com/babel/babel)
 - [Redux DevTools](https://github.com/reduxjs/redux-devtools)
+- [Github Pages](https://github.com/tschaub/gh-pages)
 
 ## Requisitos
 * `node` 
