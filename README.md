@@ -18,7 +18,7 @@ Basta clonar o projeto para seu repositório e começar a desenvolver.
 * `yarn` ou `npm`
 
 ## Installation
-Após confirmar a instalação do node e do yarn(ou npm), você pode criar seu projeto baseado no `create-react-router` com os seguintes comandos:
+Após confirmar a instalação do node e do yarn(ou npm), você pode criar seu projeto baseado no `create-react-router-redux-app` com os seguintes comandos:
 
 ```bash
 $ git clone https://github.com/joaovertelo/create-react-router-redux-app.git <my-project-name>
