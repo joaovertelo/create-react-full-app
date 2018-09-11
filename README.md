@@ -1,4 +1,4 @@
-# CREATE-REACT-APP-COMPLETE
+# CREATE-REACT-FULL-APP
 Create React App já configurado com as principais bibliotecas e ferramentas para React e JavaScript. 
 Basta clonar o projeto para seu repositório e começar a desenvolver.
 
@@ -19,10 +19,10 @@ Basta clonar o projeto para seu repositório e começar a desenvolver.
 * `yarn` ou `npm`
 
 ## Installation
-Após confirmar a instalação do node e do yarn(ou npm), você pode criar seu projeto baseado no `create-react-app-complete` com os seguintes comandos:
+Após confirmar a instalação do node e do yarn(ou npm), você pode criar seu projeto baseado no `create-react-full-app` com os seguintes comandos:
 
 ```bash
-$ git clone https://github.com/joaovertelo/create-react-app-complete.git <my-project-name>
+$ git clone https://github.com/joaovertelo/create-react-full-app.git <my-project-name>
 $ cd <my-project-name>
 ```
 
@@ -51,4 +51,4 @@ $ `yarn start` (ou `npm start`)
 
 ## Licensa
 
-[MIT](https://github.com/joaovertelo/create-react-app-complete/blob/master/LICENSE)
+[MIT](https://github.com/joaovertelo/create-react-full-app/blob/master/LICENSE)
