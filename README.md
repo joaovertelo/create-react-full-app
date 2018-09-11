@@ -12,6 +12,7 @@ Basta clonar o projeto para seu repositório e começar a desenvolver.
 - [Prop-Types](https://github.com/facebook/prop-types)
 - [Babel](https://github.com/babel/babel)
 - [Redux DevTools](https://github.com/reduxjs/redux-devtools)
+- [Github Pages](https://github.com/tschaub/gh-pages)
 
 ## Requisitos
 * `node` 
@@ -45,6 +46,7 @@ $ `yarn start` (ou `npm start`)
 |-------------------|-----------|
 |`start`            |Executa o projeto em `localhost:3000`|
 |`build`            |Faz o Build da aplicação na pasta ./dist|
+|`test`             |Executa os testes|
 |`deploy`           |Executa a build e realiza o deploy para o `github-pages`|
 
 ## Licensa
