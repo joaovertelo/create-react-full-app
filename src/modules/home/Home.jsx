@@ -4,7 +4,7 @@ class Home extends Component {
 	render() {
 		return (
 			<p className="App-intro">
-				To get started, edit <code>src/App.jsx</code> and save to reload.
+				Para começar, edite <code>src/home/Home.jsx</code> e salve para recarregar.
 			</p>
 		);
 	}
