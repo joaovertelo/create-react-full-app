@@ -1,8 +1,8 @@
 {
-	"name": "create-react-app-complete",
+	"name": "create-react-full-app",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://joaovertelo.github.io/create-react-app-complete",
+	"homepage": "https://joaovertelo.github.io/create-react-full-app",
 	"dependencies": {
 		"prop-types": "^15.6.2",
 		"react": "^16.4.2",
